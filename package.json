@@ -1,0 +1,24 @@
+{
+  "name": "useless-testing-module",
+  "version": "1.0.0",
+  "description": " better write your own",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prakashsellathurai/useless-testing-module.git"
+  },
+  "keywords": [
+    "js",
+    "testing",
+    "nodejs"
+  ],
+  "author": "prakash sellathuari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prakashsellathurai/useless-testing-module/issues"
+  },
+  "homepage": "https://github.com/prakashsellathurai/useless-testing-module#readme"
+}
